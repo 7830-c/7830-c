@@ -3,12 +3,25 @@
 </p>
 
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=39FF14&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI+%26+ML+Engineer;Building+Autonomous+AI+Agents;Full+Stack+%26+Mobile+App+Dev" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI+%26+ML+Engineer;Building+Autonomous+AI+Agents;Full+Stack+%26+Mobile+App+Dev" /></a>
 </p>
     
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>    
+<!-- CONNECT WITH ME BADGES -->
+<a href="https://www.linkedin.com/in/abhishekchauhan65158/" target="_blank">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>    
+<a href="mailto:abhishekchauhan65158@gmail.com" target="_blank">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<a href="https://leetcode.com/u/ycopsru9JO/" target="_blank">
+  <img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white">
+</a>
+<a href="https://www.kaggle.com/abhishekchauhan556" target="_blank">
+  <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">
+</a>  
+
+<br/>
+<br/>
 
 - 👋 Hi, I’m Abhishek Chauhan, a Machine Learning Engineer and Application Developer.
 - 💼 I specialize in designing intelligent AI agents, deep learning pipelines, and robust backend architectures.
@@ -58,9 +71,17 @@
 <br/>
 <br/>
 
-<h2> GitHub Stats 📊 </h2>
+<h2> Activity & Performance 📊 </h2>
 
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=7830-c&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7830-c&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  
+  <!-- LeetCode Stats -->
+  <img src="https://leetcode-stats-rocket.vercel.app/api?username=ycopsru9JO&theme=dark" alt="LeetCode Stats" width="48%" />
+</p>
+
+<p align="center">
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7830-c&layout=compact&theme=tokyonight" alt="Top Languages" width="55%" />
 </p>
