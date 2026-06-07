@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1> Hello Fellow < Developers/ > ! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 
-<!--
-**7830-c/7830-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=39FF14&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+an+AI+%26+ML+Engineer;Building+Autonomous+AI+Agents;Full+Stack+%26+Mobile+App+Dev" /></a>
+</p>
+    
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>    
 
-Here are some ideas to get you started:
+- 👋 Hi, I’m Abhishek Chauhan, a Machine Learning Engineer and Application Developer.
+- 💼 I specialize in designing intelligent AI agents, deep learning pipelines, and robust backend architectures.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+  <!-- Core Languages -->
+  <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+
+  <!-- AI / ML / DL -->
+  <a href="https://en.wikipedia.org/wiki/Deep_learning" target="_blank">
+    <img alt="Deep Learning" src="https://img.shields.io/badge/Machine%20%26%20Deep%20Learning-00599C?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  </a>
+  <a href="https://opencv.org/" target="_blank">
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
+  </a>
+
+  <!-- Web Frameworks / Backend -->
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  </a>
+
+  <!-- Mobile Development -->
+  <a href="https://flutter.dev/" target="_blank">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white">
+  </a>
+  <a href="https://dart.dev/" target="_blank">
+    <img alt="Dart" src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+  </a>
+
+  <!-- Environment -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  </a>
+
+<br/>
+<br/>
+
+<h2> GitHub Stats 📊 </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=7830-c&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7830-c&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+</p>
