@@ -70,18 +70,3 @@
 
 <br/>
 <br/>
-
-<h2> Activity & Performance 📊 </h2>
-
-<p align="center">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=7830-c&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  
-  <!-- LeetCode Stats -->
-  <img src="https://leetcode-stats-rocket.vercel.app/api?username=ycopsru9JO&theme=dark" alt="LeetCode Stats" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7830-c&layout=compact&theme=tokyonight" alt="Top Languages" width="55%" />
-</p>
